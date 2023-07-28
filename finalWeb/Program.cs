@@ -6,6 +6,8 @@ namespace finalWeb
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+            // ±Ë«ı¡÷
             // Add services to the container.
             builder.Services.AddRazorPages();
 
